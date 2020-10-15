@@ -48,3 +48,14 @@ int main()
 
     return 0;
 }
+/*
+Input:
+4 10
+4 8 5 3  ->books
+5 12 8 1 ->prices
+
+Output:
+13
+
+We can buy books 1 and 3. Their price is 4+5=9 and the number of pages is 5+8=13.
+*/
